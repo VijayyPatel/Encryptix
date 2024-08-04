@@ -52,4 +52,4 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 # Author
 Your Vijay Patel
-Feel free to edit the content according to your specific project details and preferences. Once you're happy with it, you can save it as README.md and include it in your GitHub repository.
+- Feel free to edit the content according to your specific project details and preferences. Once you're happy with it, you can save it as README.md and include it in your GitHub repository.
