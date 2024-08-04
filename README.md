@@ -49,3 +49,7 @@ Do you want to play again? (yes/no): yes
 # Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or suggestions.
+
+# Author
+Your Vijay Patel
+Feel free to edit the content according to your specific project details and preferences. Once you're happy with it, you can save it as README.md and include it in your GitHub repository.
